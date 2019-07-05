@@ -1,0 +1,454 @@
+			.logo{
+				font-family: arial;
+				background-color: #54b331;
+				text-align: center;
+				padding-top: 0.5cm;
+				padding-bottom: 20px;
+			}
+			.row .logo a{
+				text-decoration: none;
+			}
+			.search{
+				background-color: #54b331;
+				padding-right: 1cm;
+				padding-top: 0.8cm;
+				padding-bottom: 0.8cm;
+			}
+			.searchinput{
+				padding-top: 0.15cm;
+				padding-bottom: 0.15cm;
+				width: 85%;
+				margin-right: 0;
+				padding-right: 0;
+			}
+			.search_btn{
+				font-size: 20px;
+				background-color: white;
+				padding: 7.1px;
+				margin-left: 0;
+				color: #54b331;
+			}
+			.login{
+				padding-top: 17px;
+				font-size: 15px;
+				background-color: #54b331;
+				color: #ffffff;s
+				float: left;
+				width: 1.5cm;
+				padding-bottom: 16px;
+				float: left;
+			}
+			.loginlogo{
+				width: 1cm;
+				padding-left: 7px;
+				padding-top: 17px;
+				padding-bottom: 2px;
+				color: #ffffff;
+				text-decoration: none;
+				background-color: #54b331;
+			}
+			.order .loginlogo{
+				text-decoration: none;
+			}
+			.loginlabel{
+				padding-top: 2px;
+				margin-top: 0px;
+				background-color: #54b331;
+				color: #ffffff;
+				font-family: arial;
+				font-size: 12px;
+			}
+			.register{
+				width: 2cm;
+				float: left;
+			}
+			.compare{
+				width: 2.2cm;
+				float: left;
+			}
+			.cart{
+				float: left;
+			}
+			.registerlogo{
+				width: 1.5cm;
+				padding-left: 22px;
+				padding-top: 33px;
+				padding-bottom: 7px;
+				color: #ffffff;
+				text-decoration: none;
+				background-color: #54b331;
+			}
+			.comparelogo{
+				width: 1.5cm;
+				padding-left: 26px;
+				padding-top: 33px;
+				padding-bottom: 7px;
+				color: #ffffff;
+				text-decoration: none;
+				background-color: #54b331;
+			}
+			.cartlogo{
+				width: 1cm;
+				padding-left: 12px;
+				padding-top: 33px;
+				padding-bottom: 7px;
+				color: #ffffff;
+				text-decoration: none;
+				background-color: #54b331;
+			}
+			.label{
+				padding-top: 10px;
+				margin-top: 1px;
+				background-color: #54b331;
+				color: #ffffff;
+				font-family: arial;
+				font-size: 12px;
+			}
+			.order{
+				background-color: #54b331;
+				padding-top: 1px;
+			}
+			.register .registerlogo{
+				text-decoration: none;
+			}
+			.compare .comparelogo{
+				text-decoration: none;
+			}
+			.cart .cartlogo{
+				text-decoration: none;
+			}
+			.register .registerlogo a{
+				text-decoration: none;
+			}
+			.compare .comparelogo a{
+				text-decoration: none;
+			}
+			.cart .cartlogo a{
+				text-decoration: none;
+			}
+			#menu ul{
+				list-style-type: none;
+				background-color: #f1f3f2;
+				text-align: center;
+			}
+			#menu ul li{
+				color: black;
+				display: inline-table;
+				width: 130px;
+				height: 60px;
+				padding-top: 17px;
+				position: relative;
+			}
+			#menu ul li a{
+				color: #000000;
+				text-decoration: none;
+				font-weight: bold;
+				display: block;
+			}
+			#menu ul li a:hover{
+				color: #54b331;
+			}
+			#menu ul li > .sub-menu{
+				width: 150px;
+				padding-top: 15px;
+				padding-bottom: 10px;
+				padding-left: 10px;
+				padding-right: 150px;
+				display: none;
+				position: absolute;
+			}
+			#menu ul li:hover .sub-menu{
+				display: block;
+			}
+			.tablets{
+				width: 100%;
+				height: 570px;
+				margin-bottom: 15px;
+				padding-left: 125px;
+				padding-top: 20px;
+			}
+			.ipad{
+				float: left;
+			}
+			.ipaddetail{
+				float: left;
+				padding-top: 55px;
+				padding-left: 25px;
+				width: 550px;
+				padding-bottom: 40px;
+			}
+			.btn_more{
+				padding-left: 35px;
+				padding-right: 35px;
+				padding-top: 6px;
+				padding-bottom: 6px;
+				box-shadow: 0 0 0 0;
+				border-color: #54b331;
+				background-color: #ffffff;
+				border: 1px solid #54b331;
+			}
+			#more{
+				color: #54b331;
+			}
+			.thumbnailipad{
+				float: left;
+				width: 500px;
+				padding-left: 30px;
+			}
+			.thumbipad{
+				float: left;
+				padding-right: 6px;
+				padding-left: 6px;
+			}
+			.tablets .thumbnailipad .thumbipad:hover{
+				box-shadow: 0 0 2px 1px rgba(0, 150, 190, 0.8);
+			}
+			.tablets .ipaddetail .btn_more:hover {
+				background-color: #54b331;
+			}
+			.tablets .ipaddetail .btn_more:hover #more{
+				color: #ffffff;
+			}
+			.hang_muc{
+				width: 100%;
+				height: 570px;
+				background-color: #f1f3f2;
+				padding-top: 70px;
+			}
+			.chi_muc{
+				width: 30%;
+				padding-top: 20px;
+				padding-left: 140px;
+				float: left;
+				width: 450px;
+			}
+			.thumbnail{
+				width: 250px;
+				float: left;
+				margin-left: 20px;
+			}
+			.thumbdetail{
+				padding: 20px;
+			}
+			.thumbnail a{
+				text-decoration: none;
+			}
+			.thumbnail:hover{
+				box-shadow: 0 0 2px 1px rgba(0, 150, 190, 0.8);
+			}
+			.icon{
+				display: block;
+				font-size: 18px;
+				padding-left: 20px;
+				color: #3c4247;
+				padding-bottom: 23px;
+				padding-top: 23px;
+				margin: -19px;
+			}
+			.bestsellers{
+				font-family: arial;
+				color: #3c4247;
+			}
+			.hang_muc .chi_muc a{
+				text-decoration: none;
+			}
+			.hang_muc .chi_muc .glyphicon:hover{
+				color: #3c4247;
+				background-color: #e4e8e6;
+			}
+			.hang_muc .chi_muc hr{
+				color: #000000;
+			}
+			#contact{
+				width: 100%;
+				background-color: #54b331;
+				height: 150px;
+				padding-left: 72px;
+				padding-right: 50px;
+			}
+			.contactblock{
+				margin-top: 50px;
+				padding-top: 10px;
+				padding-bottom: 10px;
+				padding-right: 10px;
+				background-color: #54b331;
+				margin-right: 22px;
+				border-color: #ffffff;
+				border: 1px solid #ffffff;
+			}
+			#contact .contactblock:hover{
+				background-color: #ffffff;
+			}
+			#contact .contactblock:hover span{
+				color: #54b331;
+			}
+			#callus{
+				padding: 55px;
+				font-size: 20px; 
+				color: #ffffff;		
+			}
+			#orderproduct{
+				padding: 100px;
+				font-size: 20px; 
+				color: #ffffff;	
+			}
+			#sendusamessage{
+				padding: 80px;
+				font-size: 20px; 
+				color: #ffffff;	
+			}
+			.menu_banner{
+				position: absolute;
+			}
+			.container{
+				position: relative;
+			}
+			.slidehead{
+				color: #3c4247;
+			}
+			.slidep{
+				color: #3c4247;
+			}
+			.btn_readmore{
+				padding-top: 6px;
+				padding-bottom: 6px;
+				padding-left: 15px;
+				padding-right: 15px;
+				border-color: #54b331;
+				background-color: #ffffff;
+				border: 1px solid #54b331;
+			}
+			.readmore{
+				color: #54b331;
+			}
+			.item .container .carousel-caption .btn_readmore:hover{
+				background-color: #54b331;
+			}
+			.item .container .carousel-caption .btn_readmore:hover .readmore{
+				color: #ffffff;
+			}
+			#shopdetail{
+				width: 500px;
+				height: 500px;
+				background-color: #54b331;
+			}
+			.can_chinh_shopdetail{
+				padding-left: 125px;
+				padding-top: 70px;
+			}
+			#mycatalog{
+				padding-bottom: 20px;
+			}
+			#managerpic{
+				float: left;
+			}
+			#storemanager{
+				float: left;
+				padding-top: 10px;
+				color: #ffffff;
+				padding-left: 10px;
+				width: 250px;
+			}
+			#managerinfor{
+				float: left;
+				color: #ffffff;
+				padding-left: 10px;
+				width: 180px;
+			}
+			#see_us_on_map{
+				margin-left: 10px;
+				background-color: #54b331;
+				padding-left: 30px;
+				padding-right: 30px;
+				padding-top: 6px;
+				padding-bottom: 6px;
+				border: 1px solid #ffffff;
+			}
+			#seeusonmap{
+				color: #ffffff;
+			}
+			.moredetail #shopdetail .can_chinh_shopdetail #see_us_on_map:hover{
+				background-color: #ffffff;
+			}
+			.moredetail #shopdetail .can_chinh_shopdetail #see_us_on_map:hover span{
+				color: #54b331;
+			}
+			#shopdetail{
+				float: left;
+			}
+			.the_loai_san_pham{
+				width: 849px;
+				height: 500px;
+				float: left;
+				background-color: #f1f3f2;
+			}
+			.moredetail{
+				width: 100%;
+			}
+			.can_chinh_the_loai{
+				padding-top: 75px;
+				padding-left: 50px;
+			}
+			#buyatourstore{
+				padding-bottom: 20px;
+			}
+			.img{
+				padding-right: 10px;
+			}
+			.p{
+				width: 300px;
+				padding-top: 15px;
+				padding-right: 20px;
+				float: left;
+			}
+			.the_loai{
+				width: 350px;
+				float: left;
+			}
+			.next{
+				padding-top: 20px;
+				float: left;
+			}
+			.btn_next{
+				padding-top: 15px;
+				padding-bottom: 15px;
+				padding-right: 9px;
+				padding-left: 9px;
+				border: 1px solid #54b331;
+				background-color: #f1f3f2;
+			}
+			.dinh_dang_next{
+				font-size: 15px;
+			}
+			.the_loai_san_pham .can_chinh_the_loai .next .btn_next:hover{
+				background-color: #54b331;
+			}
+			.the_loai_san_pham .can_chinh_the_loai .next .btn_next:hover .dinh_dang_next{
+				color: #ffffff;
+			}
+			.login_form{
+				padding-left: 150px;
+				padding-right: 650px;
+			}
+			h1{
+				font-weight: bold;
+				padding-left: 50px;
+			}
+			.form-control{
+				padding-top: 5px;
+				padding-bottom: 5px;
+			}
+			.rememberme{
+				float: left;
+				padding-right: 20px;
+			}
+			.checkbox{
+				float: left;
+			}
+			.forgotpass{
+				float: left;
+			}
+			.logout{
+				width: 10px;
+				background-color: #b8dbfd;
+			}

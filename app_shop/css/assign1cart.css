@@ -1,0 +1,199 @@
+			.logo{
+				font-family: arial;
+				background-color: #54b331;
+				text-align: center;
+				padding-top: 0.5cm;
+				padding-bottom: 20px;
+			}
+			.row .logo a{
+				text-decoration: none;
+			}
+			.search{
+				background-color: #54b331;
+				padding-right: 1cm;
+				padding-top: 0.8cm;
+				padding-bottom: 0.8cm;
+			}
+			.searchinput{
+				padding-top: 0.15cm;
+				padding-bottom: 0.15cm;
+				width: 85%;
+				margin-right: 0;
+				padding-right: 0;
+			}
+			.search_btn{
+				font-size: 20px;
+				background-color: white;
+				padding: 7.1px;
+				margin-left: 0;
+				color: #54b331;
+			}
+			.login{
+				padding-top: 17px;
+				font-size: 15px;
+				background-color: #54b331;
+				color: #ffffff;s
+				float: left;
+				width: 1.5cm;
+				padding-bottom: 16px;
+				float: left;
+			}
+			.loginlogo{
+				width: 1cm;
+				padding-left: 7px;
+				padding-top: 17px;
+				padding-bottom: 2px;
+				color: #ffffff;
+				text-decoration: none;
+				background-color: #54b331;
+			}
+			.order .loginlogo{
+				text-decoration: none;
+			}
+			.loginlabel{
+				padding-top: 2px;
+				margin-top: 0px;
+				background-color: #54b331;
+				color: #ffffff;
+				font-family: arial;
+				font-size: 12px;
+			}
+			.register{
+				width: 2cm;
+				float: left;
+			}
+			.compare{
+				width: 2.2cm;
+				float: left;
+			}
+			.cart{
+				float: left;
+			}
+			.registerlogo{
+				width: 1.5cm;
+				padding-left: 22px;
+				padding-top: 33px;
+				padding-bottom: 7px;
+				color: #ffffff;
+				text-decoration: none;
+				background-color: #54b331;
+			}
+			.comparelogo{
+				width: 1.5cm;
+				padding-left: 26px;
+				padding-top: 33px;
+				padding-bottom: 7px;
+				color: #ffffff;
+				text-decoration: none;
+				background-color: #54b331;
+			}
+			.cartlogo{
+				width: 1cm;
+				padding-left: 12px;
+				padding-top: 33px;
+				padding-bottom: 7px;
+				color: #ffffff;
+				text-decoration: none;
+				background-color: #54b331;
+			}
+			.label{
+				padding-top: 10px;
+				margin-top: 1px;
+				background-color: #54b331;
+				color: #ffffff;
+				font-family: arial;
+				font-size: 12px;
+			}
+			.order{
+				background-color: #54b331;
+				padding-top: 1px;
+			}
+			.register .registerlogo{
+				text-decoration: none;
+			}
+			.compare .comparelogo{
+				text-decoration: none;
+			}
+			.cart .cartlogo{
+				text-decoration: none;
+			}
+			.register .registerlogo a{
+				text-decoration: none;
+			}
+			.compare .comparelogo a{
+				text-decoration: none;
+			}
+			.cart .cartlogo a{
+				text-decoration: none;
+			}
+			#menu ul{
+				list-style-type: none;
+				background-color: #f1f3f2;
+				text-align: center;
+			}
+			#menu ul li{
+				color: black;
+				display: inline-table;
+				width: 130px;
+				height: 60px;
+				padding-top: 17px;
+				position: relative;
+			}
+			#menu ul li a{
+				color: #000000;
+				text-decoration: none;
+				font-weight: bold;
+				display: block;
+			}
+			#menu ul li a:hover{
+				color: #54b331;
+			}
+			#menu ul li > .sub-menu{
+				width: 150px;
+				padding-top: 15px;
+				padding-bottom: 10px;
+				padding-left: 10px;
+				padding-right: 150px;
+				display: none;
+				position: absolute;
+			}
+			#menu ul li:hover .sub-menu{
+				display: block;
+			}
+			.cartdetail{
+				padding-left: 100px;
+				padding-top: 50px;
+				height: 600px;
+			}
+			td{
+				border: 1px solid black;
+				padding-left: 20px;
+			}
+			th{
+				background-color: #54b331;
+				padding-left: 20px;
+				padding-top: 5px;
+				padding-bottom: 5px;
+			}
+			.quantity{
+				float: left;
+				margin: 3px;
+			}
+			.btn_proceed{
+				padding-left: 50px;
+				padding-right: 50px;
+				padding-top: 5px;
+				padding-bottom: 5px;
+				margin-left: 350px;
+				background-color: #54b331;
+				border: 1px solid #54b331;
+			}
+			.cartdetail .btn_proceed:hover{
+				background-color: #ffffff;
+			}
+			.proceed{
+				color: #ffffff;
+			}
+			.cartdetail .btn_proceed:hover .proceed{
+				color: #54b331;
+			}
